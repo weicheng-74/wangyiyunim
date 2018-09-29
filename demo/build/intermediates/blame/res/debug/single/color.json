@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/dsb_progress_color_list.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/discrete-seekbar-1.0.1.aar/8ecb091ac29b19d2f04f5039d82dc5e7/res/color/dsb_progress_color_list.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f41ee63670b3e5ce65724d803b390c19/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f41ee63670b3e5ce65724d803b390c19/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/color_green_text_view_selector.xml",
+        "source": "/Users/twc/AndroidStudioProjects/wangyiyunim/rtskit/build/intermediates/bundles/debug/res/color/color_green_text_view_selector.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/skin_page_tab_underline_color.xml",
+        "source": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/res/color/skin_page_tab_underline_color.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/dsb_ripple_color_list.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/discrete-seekbar-1.0.1.aar/8ecb091ac29b19d2f04f5039d82dc5e7/res/color/dsb_ripple_color_list.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/skin_global_bg_color.xml",
+        "source": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/res/color/skin_global_bg_color.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/0740b220b01c7876d69bd62517630485/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/0740b220b01c7876d69bd62517630485/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/dsb_track_color_list.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/discrete-seekbar-1.0.1.aar/8ecb091ac29b19d2f04f5039d82dc5e7/res/color/dsb_track_color_list.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/color_picker_preview_selector.xml",
+        "source": "/Users/twc/AndroidStudioProjects/wangyiyunim/uikit/build/intermediates/bundles/debug/res/color/color_picker_preview_selector.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/0740b220b01c7876d69bd62517630485/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/twc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/240355bdb2954b858e3d207bc7bd8354/res/color/abc_tint_switch_track.xml"
+    }
+]

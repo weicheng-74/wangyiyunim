@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/twc/AndroidStudioProjects/wangyiyunim/uikit/build/intermediates/bundles/debug/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/res/merged/debug/xml/nrtc_setting_pref.xml",
+        "source": "/Users/twc/AndroidStudioProjects/wangyiyunim/avchatkit/build/intermediates/bundles/debug/res/xml/nrtc_setting_pref.xml"
+    }
+]

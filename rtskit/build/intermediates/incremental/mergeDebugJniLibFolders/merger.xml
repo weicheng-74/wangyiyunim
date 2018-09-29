@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/twc/AndroidStudioProjects/wangyiyunim/rtskit/libs"><file name="nim-rts-5.6.1.jar" path="/Users/twc/AndroidStudioProjects/wangyiyunim/rtskit/libs/nim-rts-5.6.1.jar"/><file name="nim-basesdk-5.6.1.jar" path="/Users/twc/AndroidStudioProjects/wangyiyunim/rtskit/libs/nim-basesdk-5.6.1.jar"/></source></dataSet><dataSet config="debug"><source path="/Users/twc/AndroidStudioProjects/wangyiyunim/rtskit/src/debug/jniLibs"/></dataSet></merger>
