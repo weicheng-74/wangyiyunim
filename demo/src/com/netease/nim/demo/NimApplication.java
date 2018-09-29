@@ -81,7 +81,7 @@ public class NimApplication extends Application {
             initUIKit();
             // 初始化消息提醒
             NIMClient.toggleNotification(UserPreferences.getNotificationToggle());
-            // 云信sdk相关业务初始化
+            // 云信sdk相关业务初始化 //相关的监听操作。
             NIMInitManager.getInstance().init(true);
             // 初始化音视频模块
             initAVChatKit();

@@ -134,6 +134,7 @@ public class OnlineStateEventManager {
      * 在登陆状态变为已登录之后，发布自己的在线状态，订阅事件
      */
     private static void registerOnlineStatusObserver() {
+        //在线状态监听
         NIMClient.getService(AuthServiceObserver.class).observeOnlineStatus(new Observer<StatusCode>() {
             @Override
             public void onEvent(StatusCode statusCode) {
@@ -184,6 +185,7 @@ public class OnlineStateEventManager {
      * @param register
      */
     private static void registerEventObserver(boolean register) {
+//    EventSubscribeServiceObserver    事件状态变更观察者接口。
         NIMClient.getService(EventSubscribeServiceObserver.class).observeEventChanged(new Observer<List<Event>>() {
             @Override
             public void onEvent(List<Event> events) {
