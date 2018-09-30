@@ -1,4 +1,4 @@
-#Sat Sep 29 10:38:22 CST 2018
+#Sun Sep 30 11:00:59 CST 2018
 file.9=/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/transforms/dexMerger/debug/20/classes.dex
 base.10=/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/transforms/dexMerger/debug/10
 file.8=/Users/twc/AndroidStudioProjects/wangyiyunim/demo/build/intermediates/transforms/dexMerger/debug/11/classes.dex
